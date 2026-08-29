@@ -5,6 +5,7 @@ installer into a shell:
 
 ```sh
 brew tap anyrayHQ/tap
+brew trust anyrayhq/tap          # one-time: Homebrew gates third-party cask taps
 brew install --cask anyray-connect
 ```
 
