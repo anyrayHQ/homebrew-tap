@@ -1,6 +1,6 @@
 cask "anyray-connect" do
-  version "0.11.545"
-  sha256 "76cd9e347e8329f82ce5c13eeb8160c5977126a47514d0035525d1f322a4c1ea"
+  version "0.11.547"
+  sha256 "d7adc37e0f52e08af0be6e71fcafb5b34b86176c6ca24098bec872424740982c"
 
   url "https://github.com/anyrayHQ/install/releases/download/connect-v#{version}/anyray-connect.pkg"
   name "Anyray Connect"
